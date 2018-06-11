@@ -6,10 +6,11 @@ Chris Custine <ccustine@redhat.com>, James Falkner <jfalkner@redhat.com>, Ishu V
 :source-highlighter: prettify
 
 == Overview
-The Internet of Things creates new challenges for enterprises, related to both technology and business. Red Hat, Eurotech, and Cloudera have combined strengths and integrated technologies to deliver the first end-to-end, open source IoT architecture that addresses enterprise IoT needs. We are making IoT easier for organizations by providing a validate, modular, flexible architecture built to be open, interoperable, and cost effective.
+The Internet of Things creates new challenges for enterprises, related to both technology and business. Red Hat, Eurotech, and Cloudera have combined strengths and integrated technologies to deliver the first end-to-end, open source IoT architecture that addresses enterprise IoT needs. This makes it easier for organizations to adopt a validated, modular, flexible architecture that is built to be open, interoperable, and cost effective.
 
 
 The architecture  delivers the capability to:
+
 * Manage connected things
 * Control and manage the flow of data from device to the cloud
 * Analyze data for insights and machine learning
@@ -20,4 +21,4 @@ This enterprise-ready, open, and interoperable, the architecture is validated, i
 image::architecture+with+ML.png[end-to-end architecture]
 
 === Demo Setup
-This document provides step instructions on how setup this demo on Red Hat OpenShift Container Platform. 
+This document provides step instructions on how setup this demo on Red Hat OpenShift Container Platform.
